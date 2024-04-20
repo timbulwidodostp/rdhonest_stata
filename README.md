@@ -3,6 +3,8 @@ Honest inference in regression discontinuity designs (RD) Use rdhonest With STAT
 
 Honestly and nearly optimally calculate estimators, standard errors and bias-aware CIs Use rdhonest With STATA 18
 
+https://www.youtube.com/watch?v=zvBMe84-ZPI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
